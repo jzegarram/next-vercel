@@ -1,0 +1,21 @@
+.container {
+    width: 300px;
+    height: 100px;
+    /* color: white; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.link {
+  font-size:  16;
+  color: white;
+  text-decoration: none!important;
+}
+
+.activeLink {
+  font-size:  16;
+  color: "blue"!important;
+  text-decoration: underline!important;
+}
+
